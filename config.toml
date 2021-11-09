@@ -1,8 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "http://parallellandscapes.com/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
-title = "Portio"
+title = "Parallel Landscapes"
 # Main Menu
 [[menu.main]]
 name = "Home"
